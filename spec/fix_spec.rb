@@ -41,7 +41,6 @@ describe Fix do
 
   context "When trying to read the standard input with the read_input method" do
     before do
-      # puts separated_st_input.to_s
       subject = Fix.new
       input = StringIO.new
 
