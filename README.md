@@ -1,4 +1,5 @@
 # UFV SACSIS 2021 Programming Marathon - Problem A Solution
+[![Maintainability](https://api.codeclimate.com/v1/badges/04d87dbd81e20eb1ee2f/maintainability)](https://codeclimate.com/github/victorh1590/SACSIS2021-Problem-A/maintainability)
 
 ## Problem Description
 *TO DO*
